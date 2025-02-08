@@ -1,0 +1,6 @@
+﻿  ETBfgs.cpp
+  ETBroyden.cpp
+  ETTranspose.cpp
+  ExperimentalTangentStiff.cpp
+  Generating Code...
+  experimentalTangentStiff.vcxproj -> C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\lib\debug\experimentalTangentStiff.lib

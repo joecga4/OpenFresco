@@ -1,0 +1,12 @@
+﻿  ExpControlRecorder.cpp
+  ExpSetupRecorder.cpp
+  ExpSignalFilterRecorder.cpp
+  ExpSiteRecorder.cpp
+  ExpTangentStiffRecorder.cpp
+  ExpControlResponse.cpp
+  ExpSetupResponse.cpp
+  ExpSignalFilterResponse.cpp
+  ExpSiteResponse.cpp
+  ExpTangentStiffResponse.cpp
+  Generating Code...
+  experimentalRecorder.vcxproj -> C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\lib\debug\experimentalRecorder.lib

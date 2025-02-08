@@ -1,0 +1,15 @@
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\DL_Interpreter.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\DL_Interpreter.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpControlCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpControlCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpElementCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpElementCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpRecorderCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpRecorderCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpServerCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpServerCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpSetupCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpSetupCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpSignalFilterCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpSignalFilterCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpSiteCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpSiteCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\ExpTangentStiffCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\ExpTangentStiffCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\OpenFrescoCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\OpenFrescoCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\OpenSeesCrdTransfCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\OpenSeesCrdTransfCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\OpenSeesUniaxialMaterialCommands.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\OpenSeesUniaxialMaterialCommands.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\tcl\TclInterpreter.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\TclInterpreter.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\tcl\TclMain.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\TclMain.obj
+C:\Users\joela\Documents\GitHub\OpenFresco\SRC\interpreter\tcl\TclWrapper.cpp;C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\obj\OpenFrescoExe\debug\TclWrapper.obj

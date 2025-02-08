@@ -1,0 +1,13 @@
+﻿  ExpControlCommands.cpp
+  ExpElementCommands.cpp
+  ExpRecorderCommands.cpp
+  ExpServerCommands.cpp
+  ExpSetupCommands.cpp
+  ExpSignalFilterCommands.cpp
+  ExpSiteCommands.cpp
+  ExpTangentStiffCommands.cpp
+  OpenFrescoPackage.cpp
+  win32Functions.cpp
+  Generating Code...
+     Creating library ..\..\bin\OpenFresco.lib and object ..\..\bin\OpenFresco.exp
+  OpenFrescoDll.vcxproj -> C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\bin\OpenFresco.dll

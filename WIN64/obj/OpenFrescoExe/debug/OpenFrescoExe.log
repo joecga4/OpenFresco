@@ -1,0 +1,18 @@
+﻿  DL_Interpreter.cpp
+  ExpControlCommands.cpp
+  ExpElementCommands.cpp
+  ExpRecorderCommands.cpp
+  ExpServerCommands.cpp
+  ExpSetupCommands.cpp
+  ExpSignalFilterCommands.cpp
+  ExpSiteCommands.cpp
+  ExpTangentStiffCommands.cpp
+  OpenFrescoCommands.cpp
+  OpenSeesCrdTransfCommands.cpp
+  OpenSeesUniaxialMaterialCommands.cpp
+  TclInterpreter.cpp
+  TclMain.cpp
+  TclWrapper.cpp
+  Generating Code...
+     Creating library ..\..\bin\OpenFresco.lib and object ..\..\bin\OpenFresco.exp
+  OpenFrescoExe.vcxproj -> C:\Users\joela\Documents\GitHub\OpenFresco\WIN64\bin\OpenFresco.exe
