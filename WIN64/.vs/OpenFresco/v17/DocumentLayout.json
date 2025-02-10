@@ -1,36 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\joela\\Documents\\GitHub\\OpenFresco\\WIN64\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{19F1DAAC-9944-4183-94A9-1B9ADD3F8FB8}|proj\\openseesObjects\\openseesObjects.vcxproj|C:\\Users\\joela\\Documents\\GitHub\\OpenFresco\\SRC\\openseesExtra\\TCP_SocketSSL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TCP_SocketSSL.h",
-              "DocumentMoniker": "C:\\Users\\joela\\Documents\\GitHub\\OpenFresco\\SRC\\openseesExtra\\TCP_SocketSSL.h",
-              "RelativeDocumentMoniker": "..\\SRC\\openseesExtra\\TCP_SocketSSL.h",
-              "ToolTip": "C:\\Users\\joela\\Documents\\GitHub\\OpenFresco\\SRC\\openseesExtra\\TCP_SocketSSL.h",
-              "RelativeToolTip": "..\\SRC\\openseesExtra\\TCP_SocketSSL.h",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwDMAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-02-08T20:12:58.342Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
