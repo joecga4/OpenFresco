@@ -29,6 +29,7 @@
 // the Krylov subspaces.  It used the converting method and does nothing 
 // with the filtering method.
 
+#include <cmath>
 #include "ESFKrylovForceConverter.h"
 
 #include <elementAPI.h>

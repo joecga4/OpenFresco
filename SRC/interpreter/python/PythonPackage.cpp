@@ -40,7 +40,7 @@
 #endif
 
 #include <StandardStream.h>
-#include <conio.h>
+#include "../PortableConio.h"
 #include <Domain.h>
 #include <AnalysisModel.h>
 #include <StaticAnalysis.h>
@@ -54,10 +54,10 @@
 #define DllExport _declspec(dllexport)
 #else
 #define DllExport
+// ops_TheActiveDomain, ops_Dt and opserrPtr resolve from the host
+// opensees module (imported with RTLD_GLOBAL) when the package is loaded
 extern Domain* ops_TheActiveDomain;
-double ops_Dt = 0.0;
-StandardStream sserr;
-OPS_Stream* opserrPtr = &sserr;
+extern double ops_Dt;
 #endif
 
 // main OpenFresco objects commands 
@@ -420,7 +420,7 @@ void Py_opf_addCommand(const char* name, PyCFunction proc)
         return;
     }
     
-    // Do NOT delete method — it must stay alive as long as func does
+    // Do NOT delete method ï¿½ it must stay alive as long as func does
     // Optional: store in a global list for later cleanup if needed
 }
 

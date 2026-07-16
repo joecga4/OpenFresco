@@ -38,14 +38,16 @@ extern void* OPF_ECSimFEAdapter();
 extern void* OPF_ECSimSimulink();
 extern void* OPF_ECGenericTCP();
 extern void* OPF_ECLabVIEW();
+extern void* OPF_ECSpeedgoat();
+#ifdef _WIN32
 extern void* OPF_ECxPCtarget();
 extern void* OPF_ECSCRAMNet();
 extern void* OPF_ECSCRAMNetGT();
-extern void* OPF_ECSpeedgoat();
 #ifndef _WIN64
 extern void* OPF_ECdSpace();
 extern void* OPF_ECMtsCsi();
 //extern void* OPF_ECNIEseries();
+#endif
 #endif
 
 
@@ -69,14 +71,16 @@ namespace {
         expControlMap.insert(std::make_pair("SimSimulink", &OPF_ECSimSimulink));
         expControlMap.insert(std::make_pair("GenericTCP", &OPF_ECGenericTCP));
         expControlMap.insert(std::make_pair("LabVIEW", &OPF_ECLabVIEW));
+        expControlMap.insert(std::make_pair("Speedgoat", &OPF_ECSpeedgoat));
+#ifdef _WIN32
         expControlMap.insert(std::make_pair("xPCtarget", &OPF_ECxPCtarget));
         expControlMap.insert(std::make_pair("SCRAMNet", &OPF_ECSCRAMNet));
         expControlMap.insert(std::make_pair("SCRAMNetGT", &OPF_ECSCRAMNetGT));
-        expControlMap.insert(std::make_pair("Speedgoat", &OPF_ECSpeedgoat));
 #ifndef _WIN64
         expControlMap.insert(std::make_pair("dSpace", &OPF_ECdSpace));
         expControlMap.insert(std::make_pair("MTSCsi", &OPF_ECMtsCsi));
         //expControlMap.insert(std::make_pair("NIEseries", &OPF_ECNIEseries));
+#endif
 #endif
         return 0;
     }

@@ -37,7 +37,7 @@
 #include <ExperimentalSite.h>
 #include <ActorExpSite.h>
 
-#include <conio.h>
+#include "PortableConio.h"
 
 
 int OPF_startLabServer()

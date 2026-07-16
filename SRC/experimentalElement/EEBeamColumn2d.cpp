@@ -25,6 +25,7 @@
 //
 // Description: This file contains the implementation of the EEBeamColumn2d class.
 
+#include <cfloat>
 #include "EEBeamColumn2d.h"
 
 #include <Domain.h>

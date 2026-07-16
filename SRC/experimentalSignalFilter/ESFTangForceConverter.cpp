@@ -29,6 +29,7 @@
 // the Experimental Tangent Stiffness class. It used the converting 
 // method and does nothing with the filtering method. 
 
+#include <cmath>
 #include "ESFTangForceConverter.h"
 
 #include <elementAPI.h>

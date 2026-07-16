@@ -29,6 +29,7 @@
 // the BFGS method used by Thewalt and later by Igarashi 
 // (Igarashi 1993 p. 10)
 
+#include <cmath>
 #include "ETBfgs.h"
 
 #include <elementAPI.h>

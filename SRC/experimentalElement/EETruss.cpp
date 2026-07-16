@@ -25,6 +25,7 @@
 //
 // Description: This file contains the implementation of the EETruss class.
 
+#include <cfloat>
 #include "EETruss.h"
 
 #include <Domain.h>

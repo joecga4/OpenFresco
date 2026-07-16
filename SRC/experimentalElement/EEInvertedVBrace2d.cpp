@@ -25,6 +25,7 @@
 //
 // Description: This file contains the implementation of the EEInvertedVBrace2d class.
 
+#include <cfloat>
 #include "EEInvertedVBrace2d.h"
 
 #include <Domain.h>

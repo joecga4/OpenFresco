@@ -25,6 +25,7 @@
 //
 // Description: This file contains the implementation of the EEGeneric class.
 
+#include <cfloat>
 #include "EEGeneric.h"
 
 #include <Domain.h>
